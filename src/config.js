@@ -15,7 +15,7 @@ export const config = {
   // ============================================
   // This is the secret code to unlock the vault
   // Examples: "02142024" (anniversary), "0214" (Valentine's Day), "iloveyou"
-  unlockCode: "143", // Change this to your special code
+  unlockCode: "2501", // Change this to your special code
   
   // ============================================
   // OPEN WHEN ENVELOPES

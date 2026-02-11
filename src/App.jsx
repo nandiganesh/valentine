@@ -26,7 +26,7 @@ function App() {
       ) : (
         <div className="main-content">
           <OpenWhenSection />
-          <CouponBook />
+          {/* <CouponBook /> */}
 
           {/* Footer */}
           <footer className="footer">
